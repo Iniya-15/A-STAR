@@ -1,6 +1,6 @@
 <h1>ExpNo 4 : Implement A* search algorithm for a Graph</h1> 
-<h3>Name:       </h3>
-<h3>Register Number:           </h3>
+<h3>Name: Iniya E      </h3>
+<h3>Register Number: 212224230096          </h3>
 <H3>Aim:</H3>
 <p>To ImplementA * Search algorithm for a Graph using Python 3.</p>
 <H3>Algorithm:</H3>
@@ -159,6 +159,9 @@ J 0 <br>
 <hr>
 Path found: ['A', 'F', 'G', 'I', 'J']
 
+![Screenshot 2025-04-06 232827](https://github.com/user-attachments/assets/f6402fd3-4d6a-4bfb-9541-cb99dbef0a66)
+
+
 <hr>
 <h2>Sample Graph II</h2>
 <hr>
@@ -186,3 +189,9 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+![Screenshot 2025-04-06 232841](https://github.com/user-attachments/assets/648b2b07-195a-4f98-b849-c22e7af80e4a)
+
+
+## Result:
+Thus the python program to implement A* search is successfully done.
